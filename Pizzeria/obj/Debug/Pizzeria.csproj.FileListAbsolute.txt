@@ -1,0 +1,11 @@
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.cache
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.pdb
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\GalakPizza.MainForm.resources
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\GalakPizza.LoginForm.resources
+C:\Users\Krystian\Desktop\Folder - VS\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.AssemblyReference.cache

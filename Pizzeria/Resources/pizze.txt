@@ -1,0 +1,13 @@
+Margerita-9.5-12.5-15-sos, ser
+Classic-10.5-13.5-16.5-sos, ser, cebula, pieczarki
+La Braciola-12-14.5-18.5-sos, ser, boczek, cebula
+Roma-14-17-20-sos, ser, wedzona poledwica, pieczarki, papryka, cebula
+Vegetariana-13-17-20-sos, ser, pieczarki, groszek, cebula, papryka
+Meksykanska-14-17.5-20.5-sos, ser, salami, oliwki, papryka, tabasco
+Sawana-14-17.5-21-sos, ser, pieczarki, biale mieso, ananas, kukurydza, papryka
+Fantazja-17-20-24-sos, ser, 7 dodatkow na zyczenie
+pizza kebab-14-17-21-mieso kebab, pomidor, ogorek kiszony, cebula, papryka
+Tropika-14-17-21-sos, ser, ananas, brzoskwinia, szynka,
+Marinara-14-17.5-21.5-sos, ser, malze, krewetki, pieczarki
+La minosa-14-17-21-sos, ser, szynka, mango, kukurydza
+Hawajska-13-16-20-sos, ananas, pieczarki, kukurydza, papryka
